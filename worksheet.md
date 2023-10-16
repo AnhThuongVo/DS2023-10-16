@@ -1,5 +1,5 @@
 # 10/16 worksheet
-## due date: 10/23
+## Due date: 10/23
 
 Collaborators:
 
