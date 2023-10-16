@@ -4,7 +4,7 @@
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
-When done, run your code through [the autograder](http://autograder.oxy.edu/) and make a pull request on github. Don't forget to tag @irabkina.
+When done, run your code through  and make a pull request on github. Don't forget to tag @Anh-Thuong-Vo.
 Respond to my comments by making new commits to the same branch.
 
 **Be sure to complete the Binary Heaps section of this worksheet *before* starting on P3.**
