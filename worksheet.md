@@ -1,6 +1,6 @@
-# 03/14 worksheet
-## Initial due date: 03/18 @5pm
-### Accepted as on time until: 03/20 @11:59pm
+# 10/16 worksheet
+## due date: 10/23
+
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
